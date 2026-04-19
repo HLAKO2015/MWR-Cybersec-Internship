@@ -8,7 +8,7 @@ and it provides us with industry practical work.
 
 We covered these topics:
 
-1. [Fundamentals](Fundametals/Fundamentals.md)
+1. [Fundamentals](Fundamentals/Fundamentals.md)
 2. [Encryption, Hashing and Encoding (Core Concepts)](Core Concepts/Concepts.md)
 3. [Session Environment](Session Environment/Session.md)
 4. [Authentication, JWTs and Authorisation](Authentications and Authorisation/Auth.md)
