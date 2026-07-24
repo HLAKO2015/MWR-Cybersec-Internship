@@ -11,7 +11,7 @@
 - Encrypted keys need keys to decrypt
 - CIA triad (Confidentiality, Integrity and Authenticity)
 
-### Two types of encryption 
+### 2.2.1 Two types of encryption 
 - Symmetric Encryption : Same key for encryption and decryption
 - Assymetric Encryption : Different keys, each party has public-private key pairs
 
@@ -20,21 +20,21 @@
 -  Can't get original data from hash (Data can be lost during hashing)
 -  One way algosithm that can't be reversed
 
-### Hashing for passwords
+### 2.3.1 Hashing for passwords
 - Confidentiality
 - Prevents the storage of actual real passwords
 - Ensures integrity of data
 
-### Hash Collisions
+### 2.3.2 Hash Collisions
 - Inputs map to the same data
 - Problem : Attacker can find a pair of messages that collide, and then find a collision given a message
 
-### Hashing types
+### 2.3.3 Hashing types
 - MD5
 - SHA
 - SHA-5
 
-### How to crack a password hash
+### 2.3.4 How to crack a password hash
 - Find the type of hash first (use "hashid")
 - Generate hashes from well known lists (eg /user/share/wordlist)
 - Generate a hash for each password,  in the input
