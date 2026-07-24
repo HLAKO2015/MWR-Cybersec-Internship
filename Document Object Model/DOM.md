@@ -9,6 +9,8 @@
 - But where in HTMl and how
 - In the DOM ?
 
+![alt](https://github.com/HLAKO2015/Images/blob/main/MWR%20CyberSec/Week%206/Screenshot%202026-04-07%20181643.png)
+
 ## 6.2 Some terminologies
 - Source: Raw HTML code, while the DOM is dynamic, in-memory representing of that web page created by the browser for dynamic updates
 - Sink : JavaScript function, DOM object causing undesirable effects if attakcer-controlled data is passed to it
