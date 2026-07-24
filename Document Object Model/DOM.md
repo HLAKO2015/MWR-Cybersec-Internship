@@ -13,7 +13,7 @@
 - Source: Raw HTML code, while the DOM is dynamic, in-memory representing of that web page created by the browser for dynamic updates
 - Sink : JavaScript function, DOM object causing undesirable effects if attakcer-controlled data is passed to it
 
-### 6.3 Source and Sink
+### 6.2.1 Source and Sink
 | Source | Sink |
 |--------|------|
 | document| document.write()|
@@ -24,25 +24,25 @@
 | Session storage | RegExp() |
 | window.name | |
 
-### Root Cause
+### 6.2.2 Root Cause
 - Ingesting unencoded user input as part of a web page
 
-### Remedical Action
+### 6.2.3 Remedical Action
 - Encode the user input
 - Implement input validation
 - Remove dangerous JavaScript function
 
-### Reconnaissance (Knowing things about a system)
+### 6.2.4 Reconnaissance (Knowing things about a system)
 - Passive : Attempt to gain infomation about a target system without engaging with the system
 - Active : Gaining information by actively engaging with the target system
 
-### Vulnerablity Identification
+### 6.2.5 Vulnerablity Identification
 - Test application, use your knowledge from reconnaissance and try to find any issues in within the application
 
-### Exploitation
+### 6.2.6 Exploitation
 - Take all vulnerabilities found, combine them to acheive some goal
 
-### Documentation and Reporting
+### 6.2.7 Documentation and Reporting
 - The only important outcome of a pentest is the report
 - The quality matters
 - If it's not in the report, then it didn't happen
