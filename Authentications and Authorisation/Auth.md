@@ -8,6 +8,8 @@
   header.payload,signature
 - Use a Decode from Burp Suite to decode the payload
 
+![alt](https://github.com/HLAKO2015/Images/blob/main/MWR%20CyberSec/Week%204/Screenshot%202026-03-24%20182421.png)
+
 ### 4.1.2 JWTs security considerations
 - Signature is not verified at all (This can allow attakcer to edit the JWTs)
 - Token information disclosure
