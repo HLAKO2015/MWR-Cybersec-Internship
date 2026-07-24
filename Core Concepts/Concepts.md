@@ -44,7 +44,7 @@
 
 ## Practical Demo
 - Using the following commands:
-- echo (for output)
-- ls (for listing)
-- nano or vim (for a textfile)
-- cat (for concatenating files) 
+  1. echo (for output)
+  2. ls (for listing)
+  3. nano or vim (for a textfile)
+  4. cat (for concatenating files) 
