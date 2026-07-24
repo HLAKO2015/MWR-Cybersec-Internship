@@ -40,6 +40,3 @@
 ### 9.4.2 Worst case scenario
 - Website allow you to upload a server-side script (php, java, python files) and configured by server to execute them as code
 
-
-## Practical Demo
-  
