@@ -26,6 +26,8 @@
 - You are just treating the symptom, not the disease
 - Doesn't fix the root cause
 
+![alt](https://github.com/HLAKO2015/Images/blob/main/MWR%20CyberSec/Week%208/WhatsApp%20Image%202026-04-21%20at%2020.23.18.jpeg)
+
 ## 8.1 In-band vs Out-of-band Injection
 
 ### 8.1.1 In-Band
