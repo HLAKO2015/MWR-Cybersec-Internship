@@ -50,6 +50,5 @@
 - Each NoSQL DBMS will have its own solution to some of these problems, for example, MongoDB allows you to stop server-side scripting to help mitigate NoSQL inject
 - This is unique to each database and requires research
 
-## Practical Demo
 
 
