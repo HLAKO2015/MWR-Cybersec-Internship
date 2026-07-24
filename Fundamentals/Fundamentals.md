@@ -1,13 +1,13 @@
 # 1. Web Fundamentals
 ## 1.1 Protocols
 HTTP - HyperText Transfer Protocol ( Exchange resources such HTML documents between the client and server);
-### How this works
+### 1.1.1 How this works
 - A client opens a TCP connection to a server (to make a 3 way handshake)
 - Client send a human readable message to the server this is known as a request
 - Server processes the request and responds with the required data
 - Client terminates or re-uses the connection for further request
 
-### Popular HTTP Response status
+### 1.1.2 Popular HTTP Response status
 - 100 continue
 - 200 OK
 - 201 Created
@@ -17,7 +17,7 @@ HTTP - HyperText Transfer Protocol ( Exchange resources such HTML documents betw
 - 404 Not found
 - 500 Internal server error
 
-### HTTP Requests and Responses
+### 1.1.3 HTTP Requests and Responses
 - Consits of methods (POST, GET,...), path
 - Protocol version
 - Header name
@@ -25,7 +25,7 @@ HTTP - HyperText Transfer Protocol ( Exchange resources such HTML documents betw
 - Status code
 - Status message
 
-### Web Proxies
+### 1.1.4 Web Proxies
 - Sit in between the client and the server, most requests and responses pass through them
 
 ## Practical Demo: Introduction to Burp Suite Community Edition
