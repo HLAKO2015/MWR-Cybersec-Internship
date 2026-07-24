@@ -3,6 +3,8 @@
 - Failling to put restrictions to this can be dangerous
 - Include server-side script files that enable remote code execution
 
+![alt](https://github.com/HLAKO2015/Images/blob/main/MWR%20CyberSec/Week%209/Screenshot%202026-04-28%20191346.png)
+
 ## 9.1. What are the impacts of this vulnerability
 - Depends :
   1. Which aspect of file, a website fails to validate (size, type or contents)
