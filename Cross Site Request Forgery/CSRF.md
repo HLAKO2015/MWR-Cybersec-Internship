@@ -11,6 +11,8 @@
 - It will include a session cookie
 - Since browsers automatically attach cookies to requests
 
+![alt](https://github.com/HLAKO2015/Images/blob/main/MWR%20CyberSec/Week%207/Screenshot%202026-04-14%20184856.png)
+
 ## 7.1 How to think of it
 - Victim logs into a bank account
 - Bank assigns a token to the victim
