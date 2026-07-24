@@ -6,7 +6,12 @@
 
 ### Lacks of Authentication
 - No sessionID : Means no trusted request and/or user is not authenticated
-- Access all info without being authenticated,
+- Access all info without being authenticated
+
+### Cookie security flag
+- HTTPonly : Prevents JavaScript from accessing a cookie, helping protect it from Cross-Site Scripting (XSS) attacks
+- Secure : Ensures that a cookie is only transmitted over encrypted HTTPS connections, reducing the risk of interception
+- SameSite : Controls when a browser sends cookies with cross-site requests, helping protect against Cross-Site Request Forgery (CSRF) attacks
 
 ### How does Web Application know who you are
 
