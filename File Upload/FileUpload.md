@@ -30,12 +30,12 @@
  
 ## 9.4 Exploiting unrestricted file upload to deploy a web shell
 
-### What is a Shell
+### 9.4.1 What is a Shell
 - Remote code execution
 - Can be a backdoor to a server, web shell, payload, command and control, remote access trojan
 - Executing this type of malware is "HARD" indeed
 
-### Worst case scenario
+### 9.4.2 Worst case scenario
 - Website allow you to upload a server-side script (php, java, python files) and configured by server to execute them as code
 
 
