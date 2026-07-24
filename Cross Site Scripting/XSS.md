@@ -6,6 +6,8 @@
 - Prevents hacker.com from accessing bank.com
 - An origin is a Scheme, domain, or port
 
+![alt](https://github.com/HLAKO2015/Images/blob/main/MWR%20CyberSec/Week%205/Screenshot%202026-03-31%20182734.png)
+
 ### 5.1.2 CORS (Cross-Origin Resource Sharing)
 - Is a set of HTTP headers designed to relax the SOP
 - Used by servers to define what content they are happy share and to who
