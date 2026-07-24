@@ -13,6 +13,8 @@
 - Secure : Ensures that a cookie is only transmitted over encrypted HTTPS connections, reducing the risk of interception
 - SameSite : Controls when a browser sends cookies with cross-site requests, helping protect against Cross-Site Request Forgery (CSRF) attacks
 
+![alt](https://github.com/HLAKO2015/Images/blob/main/MWR%20CyberSec/Week%203/Screenshot%202026-03-17%20181819.png)
+
 ### 3.1.3 How does Web Application know who you are
 
 #### Session vs Token Authentication
