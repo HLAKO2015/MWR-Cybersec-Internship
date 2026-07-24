@@ -74,4 +74,4 @@
 - Then try to create a basic boolean statememt
 - Then try a UNION statement to get more information from the database
 
-## Practical Demo
+
