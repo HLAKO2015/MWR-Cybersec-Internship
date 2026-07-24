@@ -7,7 +7,6 @@ HTTP - HyperText Transfer Protocol ( Exchange resources such HTML documents betw
 - Server processes the request and responds with the required data
 - Client terminates or re-uses the connection for further request
 
-![alt](https://github.com/HLAKO2015/Images/blob/main/MWR%20CyberSec/Week%201/Screenshot%202026-03-03%20184022.png)
 
 ### 1.1.2 Popular HTTP Response status
 - 100 continue
