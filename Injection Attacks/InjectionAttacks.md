@@ -1,13 +1,13 @@
 # 10. Injection Attacks
 - Attacker send malicious input to an application, causing it to execute unintended commands or reveal information that it shouldn't
 
-### How injection attacks work
+### (i) How injection attacks work
 - User submits input
 - Application fails to validate input or sanitize it
 - Input is passed directly into an interpreter (Database, operating system or scripting engine)
 - The interpreter executes the commands
 
-### Common types of these attacks
+### (ii) Common types of these attacks
 - SQL Injection
 - XPath Injection
 - XML Injection
