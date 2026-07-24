@@ -54,9 +54,6 @@
 - You can leverage the "SameSite" flag on your cookies to prevent a Cross Site Request (XSS) from forwading the users' credentials
 - The flag however is not currently supported in all browsers, so you should be used along CSRF token
 
-## Practical Demo 
--
-
 
 
 
