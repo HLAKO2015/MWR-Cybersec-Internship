@@ -49,7 +49,5 @@
 - The quality matters
 - If it's not in the report, then it didn't happen
 
-## Practical Demo
--
 
 
