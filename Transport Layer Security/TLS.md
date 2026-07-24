@@ -9,9 +9,9 @@
 
 ### 12.2 Why TLS is important
 - Without it, attackers could :
-  (i) Read sensitive information such as passwords or credit card numbers
-  (ii) Modify data while it is in transit
-  (iii) Impersonate legitimate websites
+  1. Read sensitive information such as passwords or credit card numbers
+  2. Modify data while it is in transit
+  3. Impersonate legitimate websites
 
  # End of MWR CyberSec Virtual Internship
  # THANK YOU !!!
