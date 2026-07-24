@@ -21,7 +21,4 @@
 ## 10.2 OS Command Injection
 - Similar to SQL Injection, ocassionally functionality exists which allows for the injection of operating system commands
 
-## Practical Demo
-
-
 
