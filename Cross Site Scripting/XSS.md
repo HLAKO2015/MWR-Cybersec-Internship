@@ -24,6 +24,3 @@
 
 ### 5.1.5 Defense
 - Encode first, then validate input
-
-## Practical Demo
-- 
