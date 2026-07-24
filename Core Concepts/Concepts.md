@@ -20,6 +20,8 @@
 -  Can't get original data from hash (Data can be lost during hashing)
 -  One way algosithm that can't be reversed
 
+![alt](https://github.com/HLAKO2015/Images/blob/main/MWR%20CyberSec/Week%202/Screenshot%202026-03-10%20183719.png)
+
 ### 2.3.1 Hashing for passwords
 - Confidentiality
 - Prevents the storage of actual real passwords
